@@ -1,1 +1,1 @@
-# Internship---Task---4
+I configured and tested firewall rules on my system using UFW/Windows Firewall. First, I checked the current firewall status and rules, then created a rule to block inbound traffic on port 23 (Telnet) and verified that the port was blocked by testing from another machine. I also added a rule to allow SSH (port 22) for secure access. After testing, I removed the test rule to restore the original state and documented the entire process with commands and screenshots.
